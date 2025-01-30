@@ -74,8 +74,6 @@ Develop an affordable, AI-driven motion capture system that **tracks athletic mo
 3. **Build a mobile app** for real-time feedback and cloud-based AI processing.
 4. **Test with athletes** and refine **AI-based motion correction algorithms**.
 
-Would you like help with choosing specific **hardware components, AI models, or software tools** to build this? 🚀
-
 
 
 # References
