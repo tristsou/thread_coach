@@ -78,3 +78,4 @@ Develop an affordable, AI-driven motion capture system that **tracks athletic mo
 
 # References
 1. [Artificial intelligence in physical education: comprehensive review and future teacher training strategies (Nov. 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1484848/full)
+2. [E-Textiles for Sports and Fitness Sensing: Current State, Challenges, and Future Opportunities (Feb. 2024)](https://www.mdpi.com/1424-8220/24/4/1058)  
