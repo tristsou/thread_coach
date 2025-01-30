@@ -1,5 +1,6 @@
 # ai-sports
 ![image](https://github.com/user-attachments/assets/b47dcc3b-e1ea-4bb6-8f96-8e92eb9fed0a)
+![image](https://github.com/user-attachments/assets/bdff8526-a5d6-4b70-ac82-9c6e55367478)
 
 Creating a **low-cost alternative for high-resolution motion capture** using **video recording, e-textiles, smartwatches, and AI** for athletic movement analysis is a great idea! Here’s a possible **solution framework** integrating these technologies:
 
