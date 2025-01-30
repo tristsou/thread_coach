@@ -75,6 +75,9 @@ Develop an affordable, AI-driven motion capture system that **tracks athletic mo
 3. **Build a mobile app** for real-time feedback and cloud-based AI processing.
 4. **Test with athletes** and refine **AI-based motion correction algorithms**.
 
+# Software
+1. [Google Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
+2. [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
 
 
 # References
