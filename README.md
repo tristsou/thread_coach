@@ -125,6 +125,8 @@ Yes! **E-textiles can be used not just for sensing but also for actuating signal
 1. [Google Mediapipe](https://ai.google.dev/edge/mediapipe/solutions/vision/pose_landmarker)
 2. [DeepLabCut](https://github.com/DeepLabCut/DeepLabCut)
 
+# In the News
+1. [Smart textiles sense how their users are moving (MIT News, 2022)](https://news.mit.edu/2022/smart-textiles-sense-movement-0707)
 
 # References
 1. [Artificial intelligence in physical education: comprehensive review and future teacher training strategies (Nov. 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1484848/full)
