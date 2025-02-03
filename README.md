@@ -131,3 +131,4 @@ Yes! **E-textiles can be used not just for sensing but also for actuating signal
 2. [E-Textiles for Sports and Fitness Sensing: Current State, Challenges, and Future Opportunities (Feb. 2024)](https://www.mdpi.com/1424-8220/24/4/1058)
 3. [Embedding textile capacitive sensing into smart wearables as a versatile solution for human motion capturing (July 2024)](https://www.nature.com/articles/s41598-024-66165-z)
 4. [Integrating sEMG and IMU Sensors in an e-Textile Smart Vest for Forward Posture Monitoring: First Steps (July 2024)](https://pubmed.ncbi.nlm.nih.gov/39066114/)
+5. [Preferred Placement and Usability of a Smart Textile System vs. Inertial Measurement Units for Activity Monitoring (August 2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6111998/)
