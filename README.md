@@ -137,3 +137,4 @@ Yes! **E-textiles can be used not just for sensing but also for actuating signal
 
 # Tutorials
 1. [An Introduction to E-Textiles (from CMU)](https://courses.ideate.cmu.edu/99-360/f2018/wp-content/uploads/2018/01/01-Introduction-to-ETextiles-1-1.pdf)
+2. [SparkFun E-Textiles](https://learn.sparkfun.com/tutorials/tags/e-textiles?page=all)
