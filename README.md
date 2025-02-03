@@ -133,6 +133,7 @@ Yes! **E-textiles can be used not just for sensing but also for actuating signal
 4. [Integrating sEMG and IMU Sensors in an e-Textile Smart Vest for Forward Posture Monitoring: First Steps (July 2024)](https://pubmed.ncbi.nlm.nih.gov/39066114/)
 5. [Preferred Placement and Usability of a Smart Textile System vs. Inertial Measurement Units for Activity Monitoring (2018)](https://pmc.ncbi.nlm.nih.gov/articles/PMC6111998/)
 6. [A tailored, electronic textile conformable suit for large-scale spatiotemporal physiological sensing in vivo (2020)](https://www.nature.com/articles/s41528-020-0068-y)
+7. [NeoWear: An IoT-connected e-textile wearable for neonatal medical monitoring (2022)](https://www.sciencedirect.com/science/article/pii/S1574119222000979) 
 
 # Tutorials
 1. [An Introduction to E-Textiles (from CMU)](https://courses.ideate.cmu.edu/99-360/f2018/wp-content/uploads/2018/01/01-Introduction-to-ETextiles-1-1.pdf)
