@@ -136,10 +136,4 @@ This hardware list includes **IMUs (smartwatch/phone sensors), e-textile compone
 4. **MediaPipe Pose for Video Processing + OpenAI API for AI Feedback**  
 5. **USB Battery Pack (10,000mAh) for Portability**  
 
----
-
-### **Next Steps:**
-Would you like:
-✅ **Circuit diagrams & sensor connection schematics?**  
-✅ **Example code for sensor fusion, pose estimation, and AI feedback?**  
-✅ **Machine learning model recommendations for activity classification?**  
+--- 
