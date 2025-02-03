@@ -128,4 +128,5 @@ Yes! **E-textiles can be used not just for sensing but also for actuating signal
 
 # References
 1. [Artificial intelligence in physical education: comprehensive review and future teacher training strategies (Nov. 2024)](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1484848/full)
-2. [E-Textiles for Sports and Fitness Sensing: Current State, Challenges, and Future Opportunities (Feb. 2024)](https://www.mdpi.com/1424-8220/24/4/1058)  
+2. [E-Textiles for Sports and Fitness Sensing: Current State, Challenges, and Future Opportunities (Feb. 2024)](https://www.mdpi.com/1424-8220/24/4/1058)
+3. [Embedding textile capacitive sensing into smart wearables as a versatile solution for human motion capturing (July 2024)](https://www.nature.com/articles/s41598-024-66165-z)
