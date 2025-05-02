@@ -83,4 +83,4 @@ Pull requests, forks, and suggestions are welcome! This project is ideal for hig
 ## 🎓 Acknowledgements
 Inspired by biomechanics, wearable tech, and the mission to democratize athletic coaching.
 
-Made with 💡 by [Your Name Here] as part of the ISEF/JSHS project "ThreadCoach: Real-Time Motion Analysis via E-Textiles for Accessible Athletic Training."
+Made by Tristan Tsou as part of the WESEF/ISEF/JSHS project "ThreadCoach: Fusing AI Video Analysis and E-Textile Sensor Data for Accessible Real-Time Athletic Coaching"
